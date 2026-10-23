@@ -2,7 +2,7 @@
 
 ![hermes-agent-1on1-fundamental](https://andri.vip/api/covers/belajar-hermes-agent-fundamental-1on1?v=covers%2Fbelajar-hermes-agent-fundamental-1on1%2Fcover-1792593169808.webp)
 
-Selamat datang di sesi 1-on-1 pengenalan Hermes Agent! Waktu 60 menit kita akan difokuskan pada live demo, bedah arsitektur, dan diskusi penerapan use-case pribadi Anda.
+Selamat datang di [sesi 1-on-1 pengenalan Hermes Agent!](https://andri.vip/produk/belajar-hermes-agent-fundamental-1on1) Waktu 60 menit kita akan difokuskan pada live demo, bedah arsitektur, dan diskusi penerapan use-case pribadi Anda.
 
 Agar kita tidak membuang waktu untuk troubleshooting teknis di hari H, mohon luangkan waktu 10-15 menit untuk membaca dan menyiapkan hal-hal di bawah ini sebelum sesi dimulai.
 
